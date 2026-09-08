@@ -149,3 +149,5 @@ CDC COVID-19 Case Surveillance Public Use Dataset — [CDC Data Portal](https://
 ## 👨‍💻 Author
 
 **Anirudh Patekar**
+
+**MIT License — you're free to use, copy, modify, and distribute this project, as long as the original copyright and license notice are included, and it's provided "as is" with no warranty.**
